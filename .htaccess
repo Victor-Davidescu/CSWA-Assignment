@@ -1,0 +1,6 @@
+# Modified example obtained from https://linuxize.com/post/htaccess-force-https/
+# Used for redirecting HTTP to HTTPS
+
+RewriteEngine On 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST} [L,R=301]
