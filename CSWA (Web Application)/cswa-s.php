@@ -1,4 +1,6 @@
 <!-- Author: Victor Davidescu | SID: 1705734 -->
+<!-- The style of the page was done using Bootstrap toolkit
+	Link to Bootstrap: https://getbootstrap.com/ -->
 <!DOCTYPE html>
 <html lang="en">
     <?php 
