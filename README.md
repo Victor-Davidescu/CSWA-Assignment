@@ -1,4 +1,4 @@
-# CSWA-Assignment
+# Case Study Web Application (CSWA) -Assignment
 
 University: Anglia Ruskin University
 
